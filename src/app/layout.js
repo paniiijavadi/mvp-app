@@ -1,5 +1,13 @@
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
+import { Roboto } from 'next/font/google'
+
+const roboto = Roboto({
+  subsets: ['latin'],
+  weight: ['400', '700'], // وزن‌هایی که می‌خوای
+  variable: '--font-roboto', // اختیاری: برای استفاده با CSS متغیر
+})
+
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -20,7 +28,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
+        className={`${roboto.variable} ${roboto.variable} antialiased`}
       >
         {children}
       </body>
