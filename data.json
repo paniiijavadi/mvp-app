@@ -9,7 +9,7 @@
     "icon": "/photos/Group-1.svg",
     "logo": "/photos/Group-1.svg",
     "isSimilar": false,
-    "connectionStatus": "connect"
+    "connectionStatus": "pending"
   },
   {
     "id": 2,
@@ -21,7 +21,7 @@
     "icon": "/photos/Group-2.svg",
     "logo": "/photos/Group-2.svg",
     "isSimilar": true,
-    "connectionStatus": "connect"
+    "connectionStatus": "pending"
   },
   {
     "id": 3,
@@ -45,7 +45,7 @@
     "icon": "/photos/Group-4.svg",
     "logo": "/photos/Group-4.svg",
     "isSimilar": false,
-    "connectionStatus": "connect"
+    "connectionStatus": "pending"
   },
   {
     "id": 5,
@@ -57,7 +57,7 @@
     "icon": "/photos/Group-5.svg",
     "logo": "/photos/Group-5.svg",
     "isSimilar": false,
-    "connectionStatus": "connect"
+    "connectionStatus": "pending"
   },
   {
     "id": 6,
@@ -69,7 +69,7 @@
     "icon": "/photos/Group-6.svg",
     "logo": "/photos/Group-6.svg",
     "isSimilar": false,
-    "connectionStatus": "connect"
+    "connectionStatus": "pending"
   },
   {
     "id": 7,
@@ -81,7 +81,7 @@
     "icon": "/photos/Group-7.svg",
     "logo": "/photos/Group-7.svg",
     "isSimilar": false,
-    "connectionStatus": "connect"
+    "connectionStatus": "pending"
   },
   {
     "id": 8,
@@ -93,7 +93,7 @@
     "icon": "/photos/Group-8.svg",
     "logo": "/photos/Group-8.svg",
     "isSimilar": true,
-    "connectionStatus": "connect"
+    "connectionStatus": "pending"
   },
   {
     "id": 9,
@@ -105,7 +105,7 @@
     "icon": "/photos/Group-9.svg",
     "logo": "/photos/Group-9.svg",
     "isSimilar": true,
-    "connectionStatus": "connect"
+    "connectionStatus": "pending"
   },
   {
     "id": 10,
@@ -141,6 +141,6 @@
     "icon": "/photos/Group-12.svg",
     "logo": "/photos/Group-12.svg",
     "isSimilar": true,
-    "connectionStatus": "connect"
+    "connectionStatus": "pending"
   }
 ]
